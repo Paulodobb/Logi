@@ -9,7 +9,6 @@ services:
     extra_hosts:
       - "host.docker.internal:172.17.0.1"
 
-
   kafka:
     image: confluentinc/cp-kafka:latest
     depends_on:
