@@ -17,3 +17,4 @@ spec:
           image: wesleywillians/imersao2-frontend:latest
           ports:
             - containerPort: 80
+
