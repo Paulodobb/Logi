@@ -1,13 +1,12 @@
 # Imersão Full Stack & FullCycle - Codelivery
 
 ## Descrição
-
 Repositório do front-end feito com React.js (Front-end)
 
 **Importante**: A aplicação do Apache Kafka, Golang e Nest.js deve estar rodando primeiro.
 
-## Configurar /etc/hosts
 
+## Configurar /etc/hosts
 A comunicação entre as aplicações se dá de forma direta através da rede da máquina.
 Para isto é necessário configurar um endereços que todos os containers Docker consigam acessar.
 
@@ -17,8 +16,8 @@ Acrescente no seu /etc/hosts (para Windows o caminho é C:\Windows\system32\driv
 ```
 Em todos os sistemas operacionais é necessário abrir o programa para editar o *hosts* como Administrator da máquina ou root.
 
-## Rodar a aplicação
 
+## Rodar a aplicação
 Execute os comandos:
 
 ```
